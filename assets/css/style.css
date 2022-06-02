@@ -143,10 +143,10 @@
 
 /*======= Common =======*/
 :root {
-	--color-primary: #ffc107;
+	--color-primary: #ffec01;
 	--color-primary-2: #0040e5;
 	--color-primary-3: #e95e6c;
-	--color-primary-4: #ffc107;
+	--color-primary-4: #ffec01;
 	--color-primary-5: #5580ff;
 	--color-primary-6: #42a66c;
 	--color-primary-7: #ff5d0c;
@@ -3611,7 +3611,7 @@ textarea {
 }
 
 .image-boxes-v1 .image-box:hover .box-link, .image-boxes-v1 .image-box.active .box-link {
-	border-color: #ffc107;
+	border-color: #ffec01;
 }
 
 .image-boxes-v1.image-thumbnail-boxed .image-box {
@@ -8349,7 +8349,7 @@ textarea {
 	width: 100%;
 	height: 100%;
 	background-color: var(--color-heading);
-	opacity: 0.75;
+	opacity: 0.15;
 }
 
 .cta-section {
