@@ -3448,7 +3448,7 @@ textarea {
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
 	font-family: "Font Awesome 5 Pro";
-	background-color: var(--color-primary-3);
+	background-color: black;
 	color: var(--color-white);
 	font-size: 13px;
 	display: -webkit-box;
